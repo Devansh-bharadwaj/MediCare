@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MediCare/static/css/main.568b28e3.css",
+    "main.js": "/MediCare/static/js/main.b9cc3770.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MediCare/static/js/787.28cb0dcd.chunk.js",
+    "static/media/van.png": "/MediCare/static/media/van.33e624712f8d28317ca2.png",
+    "static/media/pulmo.png": "/MediCare/static/media/pulmo.7539090f02527bf190c0.png",
+    "static/media/doctor.png": "/MediCare/static/media/doctor.7122e6fbb35670a27949.png",
+    "static/media/neuro.png": "/MediCare/static/media/neuro.77a4e60244255f18a004.png",
+    "static/media/nurse.png": "/MediCare/static/media/nurse.a681abc79057cf2a2bf7.png",
+    "static/media/tooth.png": "/MediCare/static/media/tooth.ac5f5f58e50bdb7517d6.png",
+    "static/media/prediatrics.png": "/MediCare/static/media/prediatrics.a63abe5c6bad26294e0c.png",
+    "index.html": "/MediCare/index.html",
+    "main.568b28e3.css.map": "/MediCare/static/css/main.568b28e3.css.map",
+    "main.b9cc3770.js.map": "/MediCare/static/js/main.b9cc3770.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MediCare/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568b28e3.css",
+    "static/js/main.b9cc3770.js"
+  ]
+}
